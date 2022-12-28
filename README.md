@@ -1,4 +1,4 @@
-# Cursos de Python concluidos 
+# Cursos de Python concluídos 
 
 ALURA 
 Curso: Python - Começando com a linguagem 

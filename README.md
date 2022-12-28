@@ -1,5 +1,6 @@
-# Alura_Python
+# Cursos de Python concluidos 
 
+ALURA 
 Curso: Python - Começando com a linguagem 
 Desenvolvimento: Jogo da adivinhação - adivinhacao.py 
 O programa desenvolvido foi um "Jogo da adivinhação" em Python, onde o objetivo era desenvolver um jogo onde o usuário precisa acertar um número escolhido aleatoriamente em um número máximo de tentativas. 
@@ -15,6 +16,7 @@ Alguns dos conteúdos abordados no curso foram:
 - Declarando funções; 
 - Função random
 
+ALURA
 Curso: Python - Avançando na linguaagem 
 Desenvolvimento: Jogo da forca - forca.py
 O programa desenvolvido foi um "Jogo da forca" em Python, onde o objetivo era desenvolver um jogo onde o usuário precisava acertar a palavra secreta, escolhida aleatoriamente e que estava contida em um arquivo de texto, tendo como 7 erros como limite. 
